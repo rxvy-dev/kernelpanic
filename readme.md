@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icons/kernel-panic-256.png" alt="Kernel Panic icon" width="160">
+  <img src="kernel-panic-256.png" alt="Kernel Panic icon" width="160">
 </p>
 
 <h1 align="center">KERNEL PANIC</h1>
