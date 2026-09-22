@@ -91,7 +91,6 @@ sudo zypper install gcc-c++ libSDL2-devel libsodium-devel libnotify-tools miniup
 Then clone and build:
 
 ```bash
-git clone https://github.com/<your-username>/kernel-panic.git
 cd kernel-panic
 make            # builds ./kernel-panic
 make test       # optional: runs the network/security test suite under AddressSanitizer + UBSan
